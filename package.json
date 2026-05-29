@@ -1,0 +1,26 @@
+{
+  "name": "rex-cloud-manager",
+  "version": "1.0.0",
+  "description": "Futuristic purple + black themed Discord.js v14 manager bot for Rex Cloud.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discord.js",
+    "rex-cloud",
+    "hosting",
+    "manager"
+  ],
+  "author": "Rex Cloud Team",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "better-sqlite3": "^9.4.3",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "ms": "^2.1.3"
+  }
+}
